@@ -4,7 +4,7 @@ I will use it for initializing new projects to not spend a lot of time on config
 
 Basic concepts I included:
 
--   Vite (because it's really faster than usual CRA for example)
+-   Vite
 -   Eslint
 -   Prettier
 -   Husky + lint-staged
